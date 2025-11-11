@@ -30,7 +30,7 @@ export default defineNuxtConfig({
         }
       ],
       // script: [
-      //   { src: 'https://www.googletagmanager.com/gtag/js?id=G-7GDC05EZKE' }
+      //   { src: 'https://www.tiktok.com/embed.js' }
       // ]
     }
   },
