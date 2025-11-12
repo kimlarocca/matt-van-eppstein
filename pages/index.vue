@@ -2,8 +2,9 @@
   <div class="container p-2 lg:p-4">
     <section class="text-center mb-12">
       <iframe
-        width="560"
-        height="315"
+        class="max-w-full"
+        width="1120"
+        height="630"
         src="https://www.youtube.com/embed/Ttc3GyeCCaM?si=eLYh5q-zVb29fLGM"
         title="YouTube video player"
         frameborder="0"
