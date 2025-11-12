@@ -41,37 +41,28 @@
           our nation's politics demands leaders with a </span
         ><span class="c5">strong backbone and willingness to stand up for all people</span
         ><span>. Instead, </span><span class="c8">you answer to Donald Trump</span
-        ><span>, billionaire hedge fund donors, and</span
-        ><span class="c7"
-          ><a
-            class="c0"
-            href="https://tennesseelookout.com/2025/10/03/independent-groups-have-spent-2-5-million-in-the-middle-tennessee-u-s-house-primary/&amp;sa=D&amp;source=editors&amp;ust=1762964546521770&amp;usg=AOvVaw2mHuzz3SCUP1OKP3Tq8ZFf"
-            >dark money PACs</a
-          ></span
+        ><span>, billionaire hedge fund donors, and </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://tennesseelookout.com/2025/10/03/independent-groups-have-spent-2-5-million-in-the-middle-tennessee-u-s-house-primary/&amp;sa=D&amp;source=editors&amp;ust=1762964546521915&amp;usg=AOvVaw2swmdHCV6TgTmr_nWtyced"
-            >trying to buy this seat</a
+            href="https://tennesseelookout.com/2025/10/03/independent-groups-have-spent-2-5-million-in-the-middle-tennessee-u-s-house-primary/"
+            >dark money PACs trying to buy this seat</a
           ></span
         ><span class="c6">.</span>
       </p>
       <p class="mb-4">
-        <span>Your opponent,</span
+        <span>Your opponent, </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://www.tiktok.com/@aftynbehn4tn/video/7546005315821505847&amp;sa=D&amp;source=editors&amp;ust=1762964546522102&amp;usg=AOvVaw1bv8jvs_q_x4r9poXJ8EGZ"
+            href="https://www.tiktok.com/@aftynbehn4tn/video/7546005315821505847"
             >Aftyn Behn, refuses corporate PAC money</a
           ></span
-        ><span>. You</span
+        ><span>. You </span
         ><span class="c7"
-          ><a
-            target="_blank"
-            class="c0"
-            href="https://www.youtube.com/shorts/Ttfont-boldGyeCCaM?si%3D05Hb72dWGRasIDj3&amp;sa=D&amp;source=editors&amp;ust=1762964546522227&amp;usg=AOvVaw3F7mqwTTp5TIErMaTFfV91"
+          ><a target="_blank" class="c0" href="https://www.youtube.com/shorts/Ttc3GyeCCaM"
             >refuse to answer questions</a
           ></span
         ><span>. </span
@@ -87,7 +78,7 @@
           ><a
             target="_blank"
             class="c0"
-            href="https://edtrust.org/wp-content/uploads/2024/10/Lessons-From-Arizona-1-Pager-FINAL.pdf&amp;sa=D&amp;source=editors&amp;ust=1762964546522481&amp;usg=AOvVaw2vcefhPu2WAyR_JscRrt-d"
+            href="https://edtrust.org/wp-content/uploads/2024/10/Lessons-From-Arizona-1-Pager-FINAL.pdf"
             >&nbsp;explode state budgets</a
           ></span
         ><span>, show little to no educational impact, and </span
@@ -96,7 +87,7 @@
           ><a
             target="_blank"
             class="c0"
-            href="https://edtrust.org/wp-content/uploads/2024/10/Lessons-From-Arizona-1-Pager-FINAL.pdf&amp;sa=D&amp;source=editors&amp;ust=1762964546522650&amp;usg=AOvVaw3gdjdWkQ23ZWGz_PIZBi1K"
+            href="https://edtrust.org/wp-content/uploads/2024/10/Lessons-From-Arizona-1-Pager-FINAL.pdf"
             >Ask Arizona</a
           ></span
         ><span class="c6"
@@ -107,12 +98,12 @@
       <p class="mb-4">
         <span
           >You dodge forums, skip interviews, and let surrogates speak while you stay
-          silent.</span
+          silent. </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://mctndp.org/2025/06/mark-green-resignation-release/&amp;sa=D&amp;source=editors&amp;ust=1762964546522975&amp;usg=AOvVaw0396aNbNhRE5gqeoxMzqKA"
+            href="https://mctndp.org/2025/06/mark-green-resignation-release/"
             >Mark Green resigned for a private gig</a
           ></span
         ><span
@@ -126,7 +117,7 @@
           ><a
             target="_blank"
             class="c0"
-            href="https://bipartisanpolicy.org/explainer/what-does-the-one-big-beautiful-bill-cost/&amp;sa=D&amp;source=editors&amp;ust=1762964546523435&amp;usg=AOvVaw1eX7Puqg-UjO-foS-om9F9"
+            href="https://bipartisanpolicy.org/explainer/what-does-the-one-big-beautiful-bill-cost/"
             >increase the deficit by $3.4 trillion dollars while pretending to be fiscally
             responsible</a
           ></span
@@ -145,44 +136,44 @@
       <p class="mb-4">
         <span
           >I worry that you will do whatever your Leader Trump commands. You stayed silent
-          on his</span
+          on his </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://gizmodo.com/trump-family-cryptocurrency-5-billion-richer-wlfi-price-2000652197&amp;sa=D&amp;source=editors&amp;ust=1762964546524009&amp;usg=AOvVaw2BisjhHcO8uTp57LnAVbZS"
+            href="https://gizmodo.com/trump-family-cryptocurrency-5-billion-richer-wlfi-price-2000652197"
             >$5 billion crypto grift</a
           ></span
-        ><span>, and even supported</span
+        ><span>, and even supported </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://www.youtube.com/watch?v%3DebOB6-H6QzU%26t%3D78s&amp;sa=D&amp;source=editors&amp;ust=1762964546524142&amp;usg=AOvVaw3dROhLRNyqAa8vS1ovkaoR"
+            href="https://www.youtube.com/watch?v=ebOB6-H6QzU&t=78s"
             >an unconstitutional third term</a
           ></span
         ><span>. TN-</span
-        ><span>7 must know, with clarity - will you support Trump's blatant</span
+        ><span>7 must know, with clarity - will you support Trump's blatant </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://medium.com/@carmitage/the-pardon-for-pay-president-2c1d01767923&amp;sa=D&amp;source=editors&amp;ust=1762964546524331&amp;usg=AOvVaw0eRJZatc-1DjpOxJzPhGus"
+            href="https://medium.com/@carmitage/the-pardon-for-pay-president-2c1d01767923"
             >“pay-for-pardon” schemes</a
           ></span
         ><span>&nbsp;and dive right into the swamp he promised to drain</span
         ><span>? </span
         ><span class="font-bold"
           >Will you cower if Trump sends armed forces into Nashville? TN-7 deserves
-          independence, not another DC lap dog.</span
-        >
+          independence, not another DC lap dog.
+        </span>
       </p>
       <p class="mb-4">
         <span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://youtube.com/shorts/Ttfont-boldGyeCCaM?si%3D05Hb72dWGRasIDj3&amp;sa=D&amp;source=editors&amp;ust=1762964546524620&amp;usg=AOvVaw2JAvo5kQJNpH6iEtEg3SWP"
+            href="https://youtube.com/shorts/Ttc3GyeCCaM?si=05Hb72dWGRasIDj3"
             >Your uncomfortable silence about releasing the Epstein files</a
           ></span
         ><span>&nbsp;is louder than any statement. </span
@@ -196,56 +187,56 @@
         >
       </p>
       <p class="mb-4">
-        <span>You were endorsed by a man who bragged about</span
+        <span>You were endorsed by a man who bragged about </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://www.youtube.com/watch?v%3DfYqKx1GuZGg&amp;sa=D&amp;source=editors&amp;ust=1762964546525042&amp;usg=AOvVaw343n8CAWxgwobuOojiVBHS"
+            href="https://www.youtube.com/watch?v=fYqKx1GuZGg"
             >groping women</a
           ></span
-        ><span>,</span
+        ><span>, </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://www.youtube.com/watch?v%3DkikTv0I8XVw&amp;sa=D&amp;source=editors&amp;ust=1762964546525171&amp;usg=AOvVaw18LS_Dokzt9yf-DdtzWzc7"
+            href="https://www.youtube.com/watch?v=kikTv0I8XVw"
             >creeping into underage dressing rooms</a
           ></span
-        ><span>, and befriended</span
+        ><span>, and befriended </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://www.pbs.org/newshour/politics/the-facts-and-timeline-of-trump-and-epsteins-falling-out&amp;sa=D&amp;source=editors&amp;ust=1762964546525320&amp;usg=AOvVaw0iTAHEj5ckdYTyAy48VZMP"
+            href="https://www.pbs.org/newshour/politics/the-facts-and-timeline-of-trump-and-epsteins-falling-out"
             >a convicted sex trafficker</a
           ></span
         ><span>. </span
         ><span class="font-bold">Will you ever stand up for women, Matt?</span>
       </p>
       <p class="mb-4">
-        <span>You rail against “indoctrination” while embracing</span
+        <span>You rail against “indoctrination” while embracing </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://www.thenation.com/article/society/prager-u-curriculum-public-education/&amp;sa=D&amp;source=editors&amp;ust=1762964546525557&amp;usg=AOvVaw0n2fFCpyfnA9xBO3tud6h3"
+            href="https://www.thenation.com/article/society/prager-u-curriculum-public-education/"
             >PragerU</a
           ></span
-        ><span>&nbsp;and TPUSA - groups that</span
+        ><span>&nbsp;and TPUSA - groups that </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://www.tulsakids.com/prageru-and-its-impact-on-schools-and-society/&amp;sa=D&amp;source=editors&amp;ust=1762964546525688&amp;usg=AOvVaw10_HCtApXNmoJWuMMBA9cs"
-            >rewrite history</a
-          ></span
-        ><span>&nbsp;and</span
+            href="https://www.tulsakids.com/prageru-and-its-impact-on-schools-and-society/"
+            >rewrite history
+          </a></span
+        ><span> and </span
         ><span class="c7"
           ><a
             target="_blank"
             class="c0"
-            href="https://www.msnbc.com/top-stories/latest/trump-civics-prageru-turning-point-usa-america-250th-birthday-rcna232205&amp;sa=D&amp;source=editors&amp;ust=1762964546525829&amp;usg=AOvVaw2gpP5jX2eDgQj_iv6uqucH"
+            href="https://www.msnbc.com/top-stories/latest/trump-civics-prageru-turning-point-usa-america-250th-birthday-rcna232205"
             >whitewash slavery</a
           ></span
         ><span>. </span
@@ -263,7 +254,7 @@
           ><a
             target="_blank"
             class="c0"
-            href="https://www.policeforum.org/trending25jan25&amp;sa=D&amp;source=editors&amp;ust=1762964546526143&amp;usg=AOvVaw21b7vzltsqv1TIRP07WZNj"
+            href="https://www.policeforum.org/trending25jan25"
             >pardons for the hundreds of criminals who assaulted police officers</a
           ></span
         ><span>&nbsp;on January 6th? Even for </span
@@ -271,7 +262,7 @@
           ><a
             target="_blank"
             class="c0"
-            href="https://www.nbcnews.com/politics/justice-department/man-sentenced-6-years-jan-6-assault-brian-sicknick-rcna67892&amp;sa=D&amp;source=editors&amp;ust=1762964546526266&amp;usg=AOvVaw3Gw2oaS8NQrY_OhaCq4B_D"
+            href="https://www.nbcnews.com/politics/justice-department/man-sentenced-6-years-jan-6-assault-brian-sicknick-rcna67892"
             >Julian Khater, who was sentenced</a
           ></span
         ><span>&nbsp;to 6 years for pepper spraying </span
@@ -279,7 +270,7 @@
           ><a
             target="_blank"
             class="c0"
-            href="https://en.wikipedia.org/wiki/Death_of_Brian_Sicknick&amp;sa=D&amp;source=editors&amp;ust=1762964546526363&amp;usg=AOvVaw2lqTNN-JSI8gXcHnpmf8Tw"
+            href="https://en.wikipedia.org/wiki/Death_of_Brian_Sicknick"
             >Officer Brian Sicknick, who died the next day in the hospital</a
           ></span
         ><span>. Trump pardoned him, and hundreds like him. You stayed silent. </span
