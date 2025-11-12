@@ -3,8 +3,8 @@
     <section class="text-center mb-12">
       <iframe
         class="max-w-full"
-        width="1120"
-        height="630"
+        width="600"
+        height="400"
         src="https://www.youtube.com/embed/Ttc3GyeCCaM?si=eLYh5q-zVb29fLGM"
         title="YouTube video player"
         frameborder="0"
@@ -29,7 +29,7 @@
         >
       </p>
       <p class="mb-4">
-        <span class="c8"
+        <span class="font-bold"
           >Will you stand up for our neighbors who look, pray, or love differently, or
           those who weren't lucky enough to be born in our great country, state, or
           district? </span
@@ -41,7 +41,7 @@
           uniform with honor, and Tennesseans recognize that sacrifice. But this moment in
           our nation's politics demands leaders with a </span
         ><span class="c5">strong backbone and willingness to stand up for all people</span
-        ><span>. Instead, </span><span class="c8">you answer to Donald Trump</span
+        ><span>. Instead, </span><span class="font-bold">you answer to Donald Trump</span
         ><span>, billionaire hedge fund donors, and </span
         ><span class="c7"
           ><a
@@ -83,7 +83,8 @@
             >&nbsp;explode state budgets</a
           ></span
         ><span>, show little to no educational impact, and </span
-        ><span class="c8">funnel taxpayer money to private businesses</span><span>. </span
+        ><span class="font-bold">funnel taxpayer money to private businesses</span
+        ><span>. </span
         ><span class="c7"
           ><a
             target="_blank"
@@ -125,7 +126,8 @@
         ><span class="c6">.</span>
       </p>
       <p class="mb-4">
-        <span class="c8">Here's a strange one: did you actually grow up in TN?</span
+        <span class="font-bold"
+          >Here's a strange one: did you actually grow up in TN?</span
         ><span>&nbsp;It's </span><span class="c5">WEIRD </span
         ><span class="c6"
           >that your campaign never says where you were born or when you moved to
@@ -178,7 +180,7 @@
             >Your uncomfortable silence about releasing the Epstein files</a
           ></span
         ><span>&nbsp;is louder than any statement. </span
-        ><span class="c8"
+        ><span class="font-bold"
           >That's not “deliberation” as you called it - it's delay, protection, and
           complicity. SHAME ON YOU. </span
         ><span>You tell us to be concerned about every </span
@@ -275,7 +277,9 @@
             >Officer Brian Sicknick, who died the next day in the hospital</a
           ></span
         ><span>. Trump pardoned him, and hundreds like him. You stayed silent. </span
-        ><span class="c8">You can Back the Blue, or Stand with Insurrectionists.</span>
+        ><span class="font-bold"
+          >You can Back the Blue, or Stand with Insurrectionists.</span
+        >
       </p>
       <p class="mb-4">
         <span
@@ -290,13 +294,17 @@
 
       <hr class="mb-12" style="height: 20px; border: none; background: var(--black)" />
 
-      <p class="text-center text-sm">
+      <p class="text-center text-sm mb-4">
         This website was not requested or authorized by any candidate or candidate's
-        committee.<br />Paid for by
+        committee.<br />
+        Inquiries -
+        <a href="mailto:contact@mattvaneppstein.com" target="_blank"
+          >contact @ mattvaneppstein.com</a
+        >
+        <!-- <br />Paid for by
         <a target="_blank" href="https://www.papnj.com">People Are People LLC</a>, 971 US
-        Highway 202N #8014, Branchburg, NJ 08876.
+        Highway 202N #8014, Branchburg, NJ 08876. -->
       </p>
     </section>
-    <FloatingDonateButton />
   </div>
 </template>

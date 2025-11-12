@@ -1,9 +1,9 @@
 <template>
   <div class="floating-donate-btn flex align-center">
     <button @click="openDonate" aria-label="Donate" class="donate-btn">Donate</button>
-    <!-- <button @click="openVolunteer" aria-label="Volunteer" class="volunteer-btn">
+    <button @click="openVolunteer" aria-label="Volunteer" class="volunteer-btn">
       Volunteer
-    </button> -->
+    </button>
     <button @click="openLinktree" aria-label="Linktree" class="icon-btn">
       <i class="pi pi-link" style="font-size: 1.5rem; color: var(--white)"></i>
     </button>
