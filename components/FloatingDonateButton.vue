@@ -1,11 +1,9 @@
 <template>
   <div class="floating-donate-btn flex align-center">
-    <button @click="openDonate" aria-label="Donate" class="donate-btn">
-      Donate
-    </button>
-    <button @click="openVolunteer" aria-label="Volunteer" class="volunteer-btn">
+    <button @click="openDonate" aria-label="Donate" class="donate-btn">Donate</button>
+    <!-- <button @click="openVolunteer" aria-label="Volunteer" class="volunteer-btn">
       Volunteer
-    </button>
+    </button> -->
     <button @click="openLinktree" aria-label="Linktree" class="icon-btn">
       <i class="pi pi-link" style="font-size: 1.5rem; color: var(--white)"></i>
     </button>
@@ -13,14 +11,14 @@
 </template>
 
 <script setup>
-function openDonate () {
-  window.open('https://secure.papnj.com/donate', '_blank')
+function openDonate() {
+  window.open("https://secure.papnj.com/donate", "_blank")
 }
-function openVolunteer () {
-  window.open('https://papnj.com/#volunteer', '_blank')
+function openVolunteer() {
+  window.open("https://papnj.com/#volunteer", "_blank")
 }
-function openLinktree () {
-  window.open('https://linktr.ee/papnj', '_blank')
+function openLinktree() {
+  window.open("https://linktr.ee/papnj", "_blank")
 }
 </script>
 

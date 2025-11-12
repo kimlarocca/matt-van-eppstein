@@ -8,11 +8,12 @@ export default defineNuxtConfig({
 
   app: {
     head: {
-      title: 'DearestJack.com - Paging the Real Jack Ciattarelli', // default fallback title
+      title: 'MattVanEppstein.com – Dear Matt, Release The Files', // default fallback title
       htmlAttrs: {
         lang: 'en',
       },
       meta: [
+        { name: 'description', content: 'An Open Letter to Matt Van Eppstein from a Tennessean' },
         { name: 'msapplication-TileColor', content: '#0a84ff' },
         { name: 'theme-color', content: '#0a84ff' }
       ],
