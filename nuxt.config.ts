@@ -69,7 +69,7 @@ export default defineNuxtConfig({
   runtimeConfig: {
     public: {
       environment: process.env.environment ?? 'local',
-      gtagId: 'G-FVMBBHKXC5',
+      gtagId: 'G-EGEQGPXKX4',
     }
   }
 })
